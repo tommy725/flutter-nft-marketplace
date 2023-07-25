@@ -2,8 +2,6 @@
 
 NFT Marketplace that you can mint, buy and sell NFTs.
 
-Visit the website demo here: : https://fxethers.com
-
 ## Requirements
 
 Ethereum, Solidity, Metamask, NodeJS, ReactJS, Truffle,...
